@@ -620,6 +620,7 @@ public class Pets {
                         pet1 = R.mipmap.sanbernardo;
                         pet2 = R.mipmap.setterirlandes;
                         pet3 = R.mipmap.terrier;
+
                     }
                 } else if (spinnerZodiac.equals("Actuario")) {
                     if (radioGroupGender.equals("M")) {
