@@ -27,6 +27,9 @@ public class ResultActivity extends AppCompatActivity implements View.OnClickLis
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result);
 
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
+
         //TextViews
         textViewPet1 = findViewById(R.id.textViewPet1);
         textViewPet2 = findViewById(R.id.textViewPet2);

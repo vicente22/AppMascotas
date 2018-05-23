@@ -17,6 +17,9 @@ public class InfoActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_info);
 
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
+
         textViewPetTitle = findViewById(R.id.textViewPetTitle);
         textViewResultInfoPet = findViewById(R.id.textViewResultInfoPet);
 
