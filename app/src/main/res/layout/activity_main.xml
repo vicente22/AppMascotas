@@ -16,6 +16,8 @@
         android:orientation="vertical">
 
         <TextView
+            android:drawableLeft="@mipmap/baseline_pets_black_24dp"
+            android:drawableRight="@mipmap/baseline_pets_black_24dp"
             android:shadowColor="@color/backgroundColor"
             android:id="@+id/textViewAppTitle"
             android:layout_width="match_parent"

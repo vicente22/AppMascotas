@@ -183,7 +183,7 @@ public class Pets {
                     }
                 } else if (spinnerZodiac.equals("Virgo")) {
                     if (radioGroupGender.equals("M")) {
-                        pet1 = R.mipmap.doberman;
+                        pet1 = R.mipmap.bullterrier;
                         pet2 = R.mipmap.boxer;
                         pet3 = R.mipmap.gatosiames;
                     } else {
@@ -213,43 +213,43 @@ public class Pets {
                     }
                 } else if (spinnerZodiac.equals("Sagitario")) {
                     if (radioGroupGender.equals("M")) {
-                        pet1 = R.mipmap.caballo;
-                        pet2 = R.mipmap.dalmata;
-                        pet3 = R.mipmap.boxer;
+                        pet1 = R.mipmap.zebra;
+                        pet2 = R.mipmap.boxer;
+                        pet3 = R.mipmap.beagle;
                     } else {
-                        pet1 = R.mipmap.caballo;
-                        pet2 = R.mipmap.dalmata;
-                        pet3 = R.mipmap.boxer;
+                        pet1 = R.mipmap.zebra;
+                        pet2 = R.mipmap.gatoangora;
+                        pet3 = R.mipmap.huron;
                     }
                 } else if (spinnerZodiac.equals("Capricornio")) {
                     if (radioGroupGender.equals("M")) {
-                        pet1 = R.mipmap.caballo;
-                        pet2 = R.mipmap.dalmata;
-                        pet3 = R.mipmap.boxer;
+                        pet1 = R.mipmap.huron;
+                        pet2 = R.mipmap.zebra;
+                        pet3 = R.mipmap.caballo;
                     } else {
-                        pet1 = R.mipmap.caballo;
-                        pet2 = R.mipmap.dalmata;
-                        pet3 = R.mipmap.boxer;
+                        pet1 = R.mipmap.collie;
+                        pet2 = R.mipmap.cocker;
+                        pet3 = R.mipmap.sanbernardo;
                     }
                 } else if (spinnerZodiac.equals("Actuario")) {
                     if (radioGroupGender.equals("M")) {
-                        pet1 = R.mipmap.caballo;
-                        pet2 = R.mipmap.dalmata;
-                        pet3 = R.mipmap.boxer;
+                        pet1 = R.mipmap.huron;
+                        pet2 = R.mipmap.bulldog;
+                        pet3 = R.mipmap.caballo;
                     } else {
-                        pet1 = R.mipmap.caballo;
-                        pet2 = R.mipmap.dalmata;
-                        pet3 = R.mipmap.boxer;
+                        pet1 = R.mipmap.bullterrier;
+                        pet2 = R.mipmap.huron;
+                        pet3 = R.mipmap.gatopersa;
                     }
                 } else if (spinnerZodiac.equals("Piscis")) {
                     if (radioGroupGender.equals("M")) {
-                        pet1 = R.mipmap.caballo;
-                        pet2 = R.mipmap.dalmata;
-                        pet3 = R.mipmap.boxer;
+                        pet1 = R.mipmap.gatosiames;
+                        pet2 = R.mipmap.zebra;
+                        pet3 = R.mipmap.beagle;
                     } else {
-                        pet1 = R.mipmap.caballo;
-                        pet2 = R.mipmap.dalmata;
-                        pet3 = R.mipmap.boxer;
+                        pet1 = R.mipmap.huron;
+                        pet2 = R.mipmap.pastoraleman;
+                        pet3 = R.mipmap.doberman;
                     }
                 }
             }

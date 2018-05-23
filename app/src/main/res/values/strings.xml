@@ -2,6 +2,7 @@
     <string name="app_name">AppMascota</string>
 
     <!-- TODO: Remove or change this placeholder text -->
+    <string name="textTitleResult">Resumen de resultados</string>
     <string name="idealPet">¿Cual es tu mascota ideal?</string>
     <string name="completeForm">Completa nuestro formulario</string>
     <string name="textPersonality">Personalidad:</string>
@@ -132,6 +133,34 @@
         hasta ejemplares de más de 30 kilos (como el Airedale), generalmente se clasifican con base en el tamaño o la función.
     </string>
     <string name="infoWeimaraner">
+        El braco de Weimar (en alemán, Weimaraner) es un perro de caza especialmente dotado como perro cobrador.
+        Su pelaje, corto y espeso, le protege muy bien de la humedad;
+        esto le permite ser un cazador eficaz en terrenos pantanosos.
+        Son fáciles de adiestrar y se comportan muy bien como perros de guarda. Son cariñosos y obedientes.
+        Toma su nombre del Gran Duque Carlos Augusto de Sajonia-Weimar-Eisenach.
+    </string>
+    <string name="infoHuron">
+        El braco de Weimar (en alemán, Weimaraner) es un perro de caza especialmente dotado como perro cobrador.
+        Su pelaje, corto y espeso, le protege muy bien de la humedad;
+        esto le permite ser un cazador eficaz en terrenos pantanosos.
+        Son fáciles de adiestrar y se comportan muy bien como perros de guarda. Son cariñosos y obedientes.
+        Toma su nombre del Gran Duque Carlos Augusto de Sajonia-Weimar-Eisenach.
+    </string>
+    <string name="infoBullTerrier">
+        El braco de Weimar (en alemán, Weimaraner) es un perro de caza especialmente dotado como perro cobrador.
+        Su pelaje, corto y espeso, le protege muy bien de la humedad;
+        esto le permite ser un cazador eficaz en terrenos pantanosos.
+        Son fáciles de adiestrar y se comportan muy bien como perros de guarda. Son cariñosos y obedientes.
+        Toma su nombre del Gran Duque Carlos Augusto de Sajonia-Weimar-Eisenach.
+    </string>
+    <string name="infoZebra">
+        El braco de Weimar (en alemán, Weimaraner) es un perro de caza especialmente dotado como perro cobrador.
+        Su pelaje, corto y espeso, le protege muy bien de la humedad;
+        esto le permite ser un cazador eficaz en terrenos pantanosos.
+        Son fáciles de adiestrar y se comportan muy bien como perros de guarda. Son cariñosos y obedientes.
+        Toma su nombre del Gran Duque Carlos Augusto de Sajonia-Weimar-Eisenach.
+    </string>
+    <string name="infoGatoAngora">
         El braco de Weimar (en alemán, Weimaraner) es un perro de caza especialmente dotado como perro cobrador.
         Su pelaje, corto y espeso, le protege muy bien de la humedad;
         esto le permite ser un cazador eficaz en terrenos pantanosos.

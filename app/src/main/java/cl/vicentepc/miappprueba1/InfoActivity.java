@@ -42,6 +42,11 @@ public class InfoActivity extends AppCompatActivity {
                 info = getString(R.string.infoBulldog);
                 imageViewInfoPet.setImageResource(R.mipmap.bulldog);
                 break;
+            case R.mipmap.bullterrier:
+                title= "Bullterrier";
+                info = getString(R.string.infoBullTerrier);
+                imageViewInfoPet.setImageResource(R.mipmap.bullterrier);
+                break;
             case R.mipmap.caballo:
                 title= "Caballo";
                 info = getString(R.string.infoHorse);
@@ -72,6 +77,11 @@ public class InfoActivity extends AppCompatActivity {
                 info = getString(R.string.infoSiameseCat);
                 imageViewInfoPet.setImageResource(R.mipmap.gatosiames);
                 break;
+            case R.mipmap.gatoangora:
+                title= "Gato Angora";
+                info = getString(R.string.infoGatoAngora);
+                imageViewInfoPet.setImageResource(R.mipmap.gatoangora);
+                break;
             case R.mipmap.gatopersa:
                 title= "Gato Persa";
                 info = getString(R.string.infoPersianCat);
@@ -81,6 +91,11 @@ public class InfoActivity extends AppCompatActivity {
                 title= "Gran Danés";
                 info = getString(R.string.infoGreatDanish);
                 imageViewInfoPet.setImageResource(R.mipmap.grandanes);
+                break;
+            case R.mipmap.huron:
+                title= "Bulldog";
+                info = getString(R.string.infoHuron);
+                imageViewInfoPet.setImageResource(R.mipmap.huron);
                 break;
             case R.mipmap.pastoraleman:
                 title= "Pastor Alemán";
@@ -106,6 +121,11 @@ public class InfoActivity extends AppCompatActivity {
                 title= "Weimaraner";
                 info = getString(R.string.infoWeimaraner);
                 imageViewInfoPet.setImageResource(R.mipmap.weimaraner);
+                break;
+            case R.mipmap.zebra:
+                title= "Weimaraner";
+                info = getString(R.string.infoZebra);
+                imageViewInfoPet.setImageResource(R.mipmap.zebra);
                 break;
         }
 

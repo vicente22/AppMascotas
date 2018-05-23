@@ -86,6 +86,12 @@ public class ResultActivity extends AppCompatActivity implements View.OnClickLis
             textViewPet1.setText("Beagle");
         } else if (pet1 == R.mipmap.bulldog) {
             textViewPet1.setText("Bulldog");
+        } else if (pet1 == R.mipmap.bullterrier) {
+            textViewPet1.setText("Bull Terrier");
+        } else if (pet1 == R.mipmap.zebra) {
+            textViewPet1.setText("Zebra");
+        } else if (pet1 == R.mipmap.gatoangora) {
+            textViewPet1.setText("Gato Angora");
         } else if (pet1 == R.mipmap.cocker) {
             textViewPet1.setText("Cocker");
         } else if (pet1 == R.mipmap.collie) {
@@ -124,7 +130,13 @@ public class ResultActivity extends AppCompatActivity implements View.OnClickLis
             textViewPet2.setText("Beagle");
         } else if (pet2 == R.mipmap.bulldog) {
             textViewPet2.setText("Bulldog");
-        } else if (pet2 == R.mipmap.cocker) {
+        } else if (pet1 == R.mipmap.bullterrier) {
+            textViewPet1.setText("Bull Terrier");
+        } else if (pet1 == R.mipmap.zebra) {
+            textViewPet1.setText("Zebra");
+        } else if (pet1 == R.mipmap.gatoangora) {
+            textViewPet1.setText("Gato Angora");
+        } else if (pet2 == R.mipmap.gatoangora) {
             textViewPet2.setText("Cocker");
         } else if (pet2 == R.mipmap.collie) {
             textViewPet2.setText("Collie");
@@ -161,6 +173,12 @@ public class ResultActivity extends AppCompatActivity implements View.OnClickLis
             textViewPet3.setText("Beagle");
         } else if (pet3 == R.mipmap.bulldog) {
             textViewPet3.setText("Bulldog");
+        } else if (pet1 == R.mipmap.bullterrier) {
+            textViewPet1.setText("Bull Terrier");
+        } else if (pet1 == R.mipmap.zebra) {
+            textViewPet1.setText("Zebra");
+        } else if (pet1 == R.mipmap.gatoangora) {
+            textViewPet1.setText("Gato Angora");
         } else if (pet3 == R.mipmap.cocker) {
             textViewPet3.setText("Cocker");
         } else if (pet3 == R.mipmap.collie) {

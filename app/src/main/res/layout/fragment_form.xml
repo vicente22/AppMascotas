@@ -16,6 +16,7 @@
             android:layout_height="match_parent">
 
             <EditText
+                android:drawableLeft="@mipmap/baseline_arrow_right_black_36dp"
                 android:textSize="20sp"
                 android:id="@+id/editTextCompleteName"
                 android:layout_marginTop="10dp"
@@ -27,6 +28,7 @@
                 android:layout_height="wrap_content" />
 
             <TextView
+                android:drawableLeft="@mipmap/baseline_arrow_right_black_36dp"
                 android:textColor="@color/buttonPrimary"
                 android:id="@+id/textViewPersonality"
                 android:textSize="20sp"
@@ -47,6 +49,7 @@
                 android:layout_height="wrap_content"></Spinner>
 
             <TextView
+                android:drawableLeft="@mipmap/baseline_arrow_right_black_36dp"
                 android:textColor="@color/buttonPrimary"
                 android:id="@+id/textViewHome"
                 android:textSize="20sp"
@@ -67,6 +70,7 @@
                 android:layout_height="wrap_content"></Spinner>
 
             <TextView
+                android:drawableLeft="@mipmap/baseline_arrow_right_black_36dp"
                 android:textColor="@color/buttonPrimary"
                 android:id="@+id/textViewZodiac"
                 android:textSize="20sp"
@@ -87,6 +91,7 @@
                 android:layout_height="wrap_content"></Spinner>
 
             <TextView
+                android:drawableLeft="@mipmap/baseline_arrow_right_black_36dp"
                 android:textColor="@color/buttonPrimary"
                 android:id="@+id/textViewAge"
                 android:textSize="20sp"
@@ -123,6 +128,7 @@
             </LinearLayout>
 
             <TextView
+                android:drawableLeft="@mipmap/baseline_arrow_right_black_36dp"
                 android:textColor="@color/buttonPrimary"
                 android:layout_marginLeft="30dp"
                 android:layout_marginRight="30dp"
@@ -167,6 +173,7 @@
                 android:gravity="bottom|center">
 
                 <Button
+                    android:drawableRight="@mipmap/baseline_arrow_forward_black_36dp"
                     android:id="@+id/btnSendData"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
