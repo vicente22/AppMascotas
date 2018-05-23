@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">AppMascota</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="idealPet">¿Cual es tu mascota ideal?</string>
+    <string name="completeForm">Completa nuestro formulario</string>
+    <string name="textPersonality">Personalidad:</string>
+    <string name="typeHome">¿Vives en casa o departamento?</string>
+    <string name="textoEscogeTuEdad">Escoge tu edad:</string>
+    <string name="textChooseAge">Escoge tu sexo:</string>
+    <string name="textMale">M</string>
+    <string name="textFemale">F</string>
+    <string name="textSendData">ENVIAR DATOS</string>
+    <string name="textZodiac">¿Que signo eres?</string>
+    <string name="moreInfo">MÁS INFO</string>
+
+    <!-- INFO MASCOTAS -->
+
+    <string name="infoBeagle">
+        Los beagle son una raza de perros de tamaño pequeño a mediano.
+        Tienen un aspecto similar al foxhound, pero de menor tamaño,
+        con patas más cortas y orejas más largas y suaves. Este perro, clasificado en el grupo 6,
+        sección 1.3 por la Federación Cinológica Internacional,
+        es un sabueso utilizado principalmente para rastrear liebres,
+        conejos y otras piezas de caza. Su gran capacidad olfativa e instinto de
+        rastreo hace que se utilicen como perros de detección de importaciones agrícolas
+        prohibidas y productos alimenticios en cuarentena a lo largo de todo el mundo.
+        Son animales inteligentes, y populares como animales domésticos debido a su talla,
+        carácter tranquilo y carencia de problemas de salud congénitos.
+        Estas características también hacen de ellos una opción como sujeto de experimentación in vivo.
+    </string>
+    <string name="infoBoxer">
+        El perro bóxer alemán es una raza canina de trabajo y compañía de tipo moloso.
+        Es un perro de tamaño medio usado como vigilante durante años.
+        Es un cruce entre un Brabant bullenbeisser y un Bulldog de antaño, razas ya extintas.
+    </string>
+    <string name="infoBulldog">
+        Su origen está en el «antiguo perro africano, kelb thal gliet, o perro de toros maltés: una raza importada a Inglaterra,
+        que cruzada con antiguos mastines dio origen al antiguo bulldog inglés.
+        El origen del nombre se debe al hecho de ser un perro de carniceros, es decir, su función era hacer correr a los toros,
+        por creerse que así su carne era más suave. Aunque es probable que sea una deformación del nombre Band dog o «perro aguerrido».
+    </string>
+    <string name="infoHorse">
+        El caballo (Equus ferus caballus)1​2​ es un mamífero perisodáctilo domesticado de la familia de los équidos.
+        Es un herbívoro perisodáctilo de gran porte, cuello largo y arqueado, poblado por largas crines.
+        A la hembra del caballo se le llama yegua y a las crías si son machos potros o potrillos, y
+        si son hembras potras o potrancas. La cría y utilización del caballo por parte del hombre se conoce como ganadería equina o caballar,
+        y su domesticación se remonta a 3600 a. C., en la región de Kazajistán.3​
+    </string>
+    <string name="infoCocker">
+        El Cocker spaniel inglés es una raza de perro originaria de Gales.
+        Fue desarrollada con la finalidad de perseguir a las gallinetas arreándolas de sus escondites en los arbustos.
+        Existen dos variedades: El cocker spaniel inglés, procedente de Gales y de orígenes españoles,
+        y el cocker spaniel americano, que resultó de la adaptación del cocker spaniel inglés a Estados Unidos.
+    </string>
+    <string name="infoCollie">
+        El origen exacto del nombre no se conoce. Es posible que provenga de:
+            1)El término col o coll, del escocés antiguo que significa ‘negro’, cognado del inglés coal: ‘carbón’.
+            2)Las ovejas llamadas colley (de cara y patas negras), que estos perros pastoreaban.
+            3)El término regional anglosajón collie, que significa ‘[cosa] útil’.
+        Se le ha llamado también "coll", "colly", "colley", "pastor escocés" o "pastor de Escocia".
+    </string>
+    <string name="infoDalmata">
+        El dálmata es una raza canina que debe su nombre a la histórica región de Dalmacia.
+        Su característica principal es su singular pelaje moteado de color negro, hígado o limón.
+        Al nacer, las crías carecen de manchas, las cuales van apareciendo por todo su cuerpo durante el primer año de vida.
+        La hiperuricemia es común entre los dálmatas, por lo cual suelen ser considerados los únicos mamíferos uricotélicos.
+        Otro rasgo de origen genético propio de la raza es su alta predisposición a la sordera.
+    </string>
+    <string name="infoDoberman">
+        El dobermann8​ es una raza relativamente reciente, debe su nombre al alemán Karl Friedrich Louis Dobermann, quien a finales del siglo XIX,
+        emprende la tarea de crear una nueva raza de perro que sirviera eficazmente a su difícil trabajo como recaudador de impuestos.
+        Para conseguir el nacimiento de esta nueva raza, se emplearon cruces de otras razas caninas como el Rottweiler,
+        el Beauceron, el Braco de Weimar, el Manchester terrier,
+        o el Pinscher. La principal función de esta raza en sus orígenes fue la de proteger
+        a su creador frente a potenciales asaltantes interesados en la recaudación de los impuestos que solía portar.
+        Es un perro considerado potencialmente peligroso debido a sus características físicas.
+    </string>
+    <string name="infoSiameseCat">
+        El siamés moderno es una raza de gato proveniente del antiguo reino de Siam, actualmente Tailandia.
+        En 1880 fueron llevados a Inglaterra y en 1890 a Estados Unidos.
+        Este tipo de siamés, desde 1950, fue ganando protagonismo y resultó ser el elegido por los criadores y jueces de exposiciones felinas.
+        Tal vez sea por esto que se acuñó el nombre "siamés" para el siamés moderno,
+        ya que es la variedad que durante todas estas décadas ha participado a nivel de competición.
+    </string>
+    <string name="infoPersianCat">
+        El Persa es una raza de gato caracterizada por tener una cara ancha y plana y un gran abundante pelaje de variados colores.
+        Son considerados comúnmente como gatos aristocráticos (el 75% de los gatos de pedigree registrados son persas).
+        Los primeros gatos persas fueron introducidos en Italia desde Persia (actual Irán) en la década de 1620 y a sus descendientes se les llamó de muchas maneras.
+        La rama persa actual se desarrolló a finales de 1800 en Inglaterra y proviene del gato de Angora turco.
+    </string>
+    <string name="infoGreatDanish">
+        El gran danés, dogo alemán o alano alemán es una raza canina conocida por su gran tamaño y personalidad delicada,
+        considerado como el «Apolo entre todas las razas» por la Federación Cinológica Internacional.
+        También se considera que desciende del Bullenbeisser con mezcla de sangre 50/50 y es parte del grupo Generación Bullenbeisser.
+    </string>
+    <string name="infoGermanShepard">
+        El pastor alemán u ovejero alemán (en alemán: Deutscher Schäferhund) es una raza canina que proviene de Alemania
+        La raza es relativamente nueva, ya que su origen se remonta a 1899.
+        Forman parte del grupo de pastoreo, debido a que fueron perros desarrollados originalmente para reunir y vigilar ovejas.
+        Desde entonces, sin embargo, gracias a su fuerza, inteligencia,4​ capacidad de entrenamiento y obediencia,
+        ​los pastores alemanes de todo el mundo son a menudo la raza preferida para muchos otros tipos de trabajo,
+        como son: perro guardián, guía de ciegos, animal de salvamento,
+        perro policía y otros, según el uso que le den las fuerzas de seguridad y el ejército.
+        En muchos países incluso cuentan con unidades específicas denominadas K-9.
+    </string>
+    <string name="infoSaintBernard">
+        El san bernardo es una raza de perro originaria de los Alpes suizos y del norte de Italia.
+        Es el perro boyero más famoso junto con el mastín del Pirineo y es muy próximo al gran boyero suizo.
+        Desciende del extinto mastín de los Alpes, que se mezcló con otras razas como el dogo del Tíbet, el terranova y el gran danés.
+        Su nombre en otros idiomas es: St. Bernhardshund, Bernhardiner, Chien du Saint-Bernard, Saint Bernard Dog.
+    </string>
+    <string name="infoIrishSetter">
+        Los orígenes de esta raza se remontan a Irlanda a principios del siglo XVIII,
+        momento en el que fueron especialmente educados para encontrar la presa en la caza con escopeta.
+        Aunque los Setter más antiguos de este país eran de color blanco y rojo,
+        tras diversos procesos de selección surgió el Setter irlandés rojo.
+        Durante el siglo XIX la raza empezó a adquirir popularidad por sus habilidades para cazar
+        y en 1882 se fundó el Club del Setter Irlandés Rojo en Dublín. A partir de entonces,
+        el número de este tipo de perros aumentó mientras que el de la variedad roja y blanca fue disminuyendo.
+        El Setter Rojo se comenzó a exportar a EE.UU. en gran número hacia finales del siglo XIX,
+        por lo que la raza se extendió por los diversos continentes, de manera que en la actualidad es común tanto en Europa como en América.
+        Hoy día esta raza es más utilizada como animal de compañía que como perro de caza,
+        aunque expertos en el tema afirman que el Setter irlandés conserva una gran capacidad para esta actividad.
+    </string>
+    <string name="infoTerrier">
+        Terrier es como se denomina a un extenso grupo de razas de perros relacionados entre sí, en su mayor parte originarios de las Islas Británicas.
+        El nombre proviene del latín terra, que significa tierra.
+        En líneas generales se trata de perros de tamaño pequeño, pelo áspero o duro y poseedores de un carácter decidido,
+        enérgico e inquieto, muy apropiado para la caza de ratas y alimañas, que fue el principal uso para el que fueron seleccionados.
+        Como los terrier varían en medida, desde ejemplares de un par de kilos (como el Norwich),
+        hasta ejemplares de más de 30 kilos (como el Airedale), generalmente se clasifican con base en el tamaño o la función.
+    </string>
+    <string name="infoWeimaraner">
+        El braco de Weimar (en alemán, Weimaraner) es un perro de caza especialmente dotado como perro cobrador.
+        Su pelaje, corto y espeso, le protege muy bien de la humedad;
+        esto le permite ser un cazador eficaz en terrenos pantanosos.
+        Son fáciles de adiestrar y se comportan muy bien como perros de guarda. Son cariñosos y obedientes.
+        Toma su nombre del Gran Duque Carlos Augusto de Sajonia-Weimar-Eisenach.
+    </string>
+
+</resources>

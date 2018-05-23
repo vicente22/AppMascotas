@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="personality">
+        <item>Sin seleccionar...</item>
+        <item>Callado/a</item>
+        <item>Serio/a</item>
+        <item>Nervioso/a</item>
+        <item>Temperamental</item>
+        <item>Alegre</item>
+    </string-array>
+    <string-array name="typeHome">
+        <item>Sin seleccionar...</item>
+        <item>Casa</item>
+        <item>Departamento</item>
+    </string-array>
+    <string-array name="zodiac">
+        <item>Sin seleccionar...</item>
+        <item>Aries</item>
+        <item>Tauro</item>
+        <item>Geminis</item>
+        <item>Cancer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Escorpio</item>
+        <item>Sagitario</item>
+        <item>Capricornio</item>
+        <item>Acuario</item>
+        <item>Piscis</item>
+    </string-array>
+</resources>
