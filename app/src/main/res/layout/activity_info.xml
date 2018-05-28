@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".InfoActivity">
+    tools:context=".InfoActivity"
+    android:background="@color/colorPrimaryLight">
     <TextView
         android:drawableTop="@mipmap/baseline_pets_black_24dp"
         android:background="@color/colorPrimaryDark"
@@ -36,6 +37,45 @@
                 android:textAlignment="inherit"
                 android:textSize="17sp"
                 android:id="@+id/textViewResultInfoPet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"/>
+            <TextView
+                android:textSize="20dp"
+                android:drawableLeft="@mipmap/baseline_insert_chart_outlined_black_36dp"
+                android:text="@string/petStatistics"
+                android:background="@color/colorPrimary"
+                android:textColor="@color/textColor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:textSize="17dp"
+                android:text="@string/petHeight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:id="@+id/textViewInfoPetHeight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:text="@string/petWeight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:id="@+id/textViewInfoPetWeight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:text="@string/petChar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:id="@+id/textViewInfoPetChar"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
         </LinearLayout>

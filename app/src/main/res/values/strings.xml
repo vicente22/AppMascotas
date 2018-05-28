@@ -15,6 +15,10 @@
     <string name="textZodiac">¿Que signo eres?</string>
     <string name="moreInfo">MÁS INFO</string>
     <string name="yourResultIs">Tu mascotas ideales son:</string>
+    <string name="petHeight">Altura promedio: </string>
+    <string name="petWeight">Peso promedio: </string>
+    <string name="petChar">Caracteristicas: </string>
+    <string name="petStatistics">Detalles Mascota: </string>
 
     <!-- INFO MASCOTAS -->
 
