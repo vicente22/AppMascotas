@@ -55,7 +55,14 @@
                 android:layout_height="wrap_content" />
             <TextView
                 android:textSize="17dp"
-                android:id="@+id/textViewInfoPetHeight"
+                android:drawableLeft="@mipmap/male"
+                android:id="@+id/textViewInfoPetHeightMale"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:drawableLeft="@mipmap/female"
+                android:id="@+id/textViewInfoPetHeightFemale"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
             <TextView
@@ -65,7 +72,14 @@
                 android:layout_height="wrap_content" />
             <TextView
                 android:textSize="17dp"
-                android:id="@+id/textViewInfoPetWeight"
+                android:drawableLeft="@mipmap/male"
+                android:id="@+id/textViewInfoPetWeightMale"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:drawableLeft="@mipmap/female"
+                android:id="@+id/textViewInfoPetWeightFemale"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" />
             <TextView

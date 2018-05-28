@@ -2,33 +2,45 @@ package cl.vicentepc.miappprueba1;
 
 public class Pets {
 
-    private String petHeight;
-    private String petWeight;
+    private String petHeightMale;
+    private String petHeightFemale;
+    private String petWeightMale;
+    private String petWeightFemale;
     private String petChar;
 
     public Pets() {
     }
 
-    public Pets(String petHeight, String petWeight, String petChar) {
-        this.petHeight = petHeight;
-        this.petWeight = petWeight;
-        this.petChar = petChar;
+    public String getPetHeightMale() {
+        return petHeightMale;
     }
 
-    public String getPetHeight() {
-        return petHeight;
+    public void setPetHeightMale(String petHeightMale) {
+        this.petHeightMale = petHeightMale;
     }
 
-    public void setPetHeight(String petHeight) {
-        this.petHeight = petHeight;
+    public String getPetHeightFemale() {
+        return petHeightFemale;
     }
 
-    public String getPetWeight() {
-        return petWeight;
+    public void setPetHeightFemale(String petHeightFemale) {
+        this.petHeightFemale = petHeightFemale;
     }
 
-    public void setPetWeight(String petWeight) {
-        this.petWeight = petWeight;
+    public String getPetWeightMale() {
+        return petWeightMale;
+    }
+
+    public void setPetWeightMale(String petWeightMale) {
+        this.petWeightMale = petWeightMale;
+    }
+
+    public String getPetWeightFemale() {
+        return petWeightFemale;
+    }
+
+    public void setPetWeightFemale(String petWeightFemale) {
+        this.petWeightFemale = petWeightFemale;
     }
 
     public String getPetChar() {
