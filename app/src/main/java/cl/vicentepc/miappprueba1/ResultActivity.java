@@ -1,8 +1,8 @@
 package cl.vicentepc.miappprueba1;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -26,9 +26,6 @@ public class ResultActivity extends AppCompatActivity implements View.OnClickLis
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result);
-
-        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
         //TextViews
         textViewPet1 = findViewById(R.id.textViewPet1);
@@ -89,6 +86,8 @@ public class ResultActivity extends AppCompatActivity implements View.OnClickLis
             textViewPet1.setText("Beagle");
         } else if (pet1 == R.mipmap.bulldog) {
             textViewPet1.setText("Bulldog");
+        }else if (pet1 == R.mipmap.huron) {
+            textViewPet1.setText("hurón");
         } else if (pet1 == R.mipmap.bullterrier) {
             textViewPet1.setText("Bull Terrier");
         } else if (pet1 == R.mipmap.zebra) {
@@ -133,12 +132,14 @@ public class ResultActivity extends AppCompatActivity implements View.OnClickLis
             textViewPet2.setText("Beagle");
         } else if (pet2 == R.mipmap.bulldog) {
             textViewPet2.setText("Bulldog");
-        } else if (pet1 == R.mipmap.bullterrier) {
-            textViewPet1.setText("Bull Terrier");
-        } else if (pet1 == R.mipmap.zebra) {
-            textViewPet1.setText("Zebra");
-        } else if (pet1 == R.mipmap.gatoangora) {
-            textViewPet1.setText("Gato Angora");
+        }else if (pet2 == R.mipmap.huron) {
+            textViewPet2.setText("Hurón");
+        } else if (pet2 == R.mipmap.bullterrier) {
+            textViewPet2.setText("Bull Terrier");
+        } else if (pet2 == R.mipmap.zebra) {
+            textViewPet2.setText("Zebra");
+        } else if (pet2 == R.mipmap.gatoangora) {
+            textViewPet2.setText("Gato Angora");
         } else if (pet2 == R.mipmap.gatoangora) {
             textViewPet2.setText("Cocker");
         } else if (pet2 == R.mipmap.collie) {
@@ -176,12 +177,14 @@ public class ResultActivity extends AppCompatActivity implements View.OnClickLis
             textViewPet3.setText("Beagle");
         } else if (pet3 == R.mipmap.bulldog) {
             textViewPet3.setText("Bulldog");
-        } else if (pet1 == R.mipmap.bullterrier) {
-            textViewPet1.setText("Bull Terrier");
-        } else if (pet1 == R.mipmap.zebra) {
-            textViewPet1.setText("Zebra");
-        } else if (pet1 == R.mipmap.gatoangora) {
-            textViewPet1.setText("Gato Angora");
+        }else if (pet3 == R.mipmap.huron) {
+            textViewPet3.setText("Hurón");
+        } else if (pet3 == R.mipmap.bullterrier) {
+            textViewPet3.setText("Bull Terrier");
+        } else if (pet3 == R.mipmap.zebra) {
+            textViewPet3.setText("Zebra");
+        } else if (pet3 == R.mipmap.gatoangora) {
+            textViewPet3.setText("Gato Angora");
         } else if (pet3 == R.mipmap.cocker) {
             textViewPet3.setText("Cocker");
         } else if (pet3 == R.mipmap.collie) {
@@ -211,7 +214,6 @@ public class ResultActivity extends AppCompatActivity implements View.OnClickLis
         } else {
             textViewPet3.setText("RESULTADO NO DISPONIBLE");
         }
-
 
         imageViewPet1.setOnClickListener(this);
         imageViewPet2.setOnClickListener(this);

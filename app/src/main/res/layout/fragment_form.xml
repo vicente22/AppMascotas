@@ -11,11 +11,13 @@
         android:layout_height="match_parent">
 
         <LinearLayout
+            android:descendantFocusability="beforeDescendants"
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
             <EditText
+                android:inputType="text"
                 android:drawableLeft="@mipmap/baseline_arrow_right_black_36dp"
                 android:textSize="20sp"
                 android:id="@+id/editTextCompleteName"

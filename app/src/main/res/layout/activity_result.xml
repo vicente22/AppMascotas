@@ -61,6 +61,12 @@
             android:text=""
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
+        <TextView
+            android:textColor="@color/textColor"
+            android:textSize="17sp"
+            android:text="@string/yourResultIs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
     </LinearLayout>
         <ScrollView
             android:background="@color/backgroundColor"
@@ -80,12 +86,13 @@
                     android:textAlignment="center"
                     android:text=""
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"/>
                 <ImageView
                     android:layout_gravity="bottom"
                     android:id="@+id/imageViewPet1"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitCenter"/>
                 <TextView
                     android:background="@color/colorPrimaryDark"
                     android:textColor="#FFF"
@@ -94,12 +101,12 @@
                     android:textAlignment="center"
                     android:text=""
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"/>
                 <ImageView
                     android:layout_gravity="bottom"
                     android:id="@+id/imageViewPet2"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"/>
                 <TextView
                     android:background="@color/colorPrimaryDark"
                     android:textColor="#FFF"
@@ -108,12 +115,12 @@
                     android:textAlignment="center"
                     android:text=""
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"/>
                 <ImageView
                     android:layout_gravity="bottom"
                     android:id="@+id/imageViewPet3"
                     android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
+                    android:layout_height="wrap_content"/>
             </LinearLayout>
 
         </ScrollView>
