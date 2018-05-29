@@ -18,8 +18,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ResultActivity"/>
-        <activity android:name=".InfoActivity"/>
+        <activity android:name=".ResultActivity" />
+        <activity android:name=".InfoActivity" />
+        <activity
+            android:name=".InfoResultTab"
+            android:label="@string/title_activity_info_result_tab"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

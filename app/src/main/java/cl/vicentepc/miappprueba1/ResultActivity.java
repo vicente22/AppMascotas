@@ -140,7 +140,7 @@ public class ResultActivity extends AppCompatActivity implements View.OnClickLis
             textViewPet2.setText("Zebra");
         } else if (pet2 == R.mipmap.gatoangora) {
             textViewPet2.setText("Gato Angora");
-        } else if (pet2 == R.mipmap.gatoangora) {
+        }else if (pet2 == R.mipmap.cocker) {
             textViewPet2.setText("Cocker");
         } else if (pet2 == R.mipmap.collie) {
             textViewPet2.setText("Collie");
@@ -224,7 +224,7 @@ public class ResultActivity extends AppCompatActivity implements View.OnClickLis
     @Override
     public void onClick(View v) {
         int resource = (int) v.getTag();
-        Intent intent3 = new Intent(ResultActivity.this, InfoActivity.class);
+        Intent intent3 = new Intent(ResultActivity.this, InfoResultTab.class);
         intent3.putExtra("petImage", resource);
         startActivity(intent3);
     }

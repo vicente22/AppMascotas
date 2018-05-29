@@ -184,5 +184,12 @@
         para designar a cualquier gato de pelo largo, sin importar su origen o raza.
         Así, muchos gatos comunes de pelo largo, o incluso persas sin pedigrí, se denominan erróneamente "angoras".
     </string>
+    <string name="title_activity_info_tabbed_result">InfoTabbedResult</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_info_result_tab">InfoResultTab</string>
 
 </resources>

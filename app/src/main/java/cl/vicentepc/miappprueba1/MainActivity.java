@@ -1,9 +1,7 @@
 package cl.vicentepc.miappprueba1;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.animation.AlphaAnimation;
-import android.view.animation.Animation;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
@@ -22,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
         textViewAppTitle = findViewById(R.id.textViewAppTitle);
         textViewCompleteForm = findViewById(R.id.textViewCompleteForm);
-
 
     }
 

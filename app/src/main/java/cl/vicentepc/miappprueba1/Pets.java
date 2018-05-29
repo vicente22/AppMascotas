@@ -52,6 +52,7 @@ public class Pets {
     }
 
     public int[] get(String spinnerPersonality, String spinnerHome, String spinnerZodiac, String radioGroupGender) {
+
         int pet1 = 0;
         int pet2 = 0;
         int pet3 = 0;

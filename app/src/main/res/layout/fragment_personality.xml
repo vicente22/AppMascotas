@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".InfoActivity"
+    android:background="@color/colorPrimaryLight">
+    <TextView
+        android:drawableTop="@mipmap/baseline_pets_black_24dp"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="#FFF"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:id="@+id/textViewPetTitle"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_marginRight="10sp"
+            android:layout_marginLeft="10sp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/imageViewInfoPet"
+                android:layout_gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textColor="@color/textColor"
+                android:textSize="17dp"
+                android:text="@string/petChar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:textSize="17dp"
+                android:id="@+id/textViewInfoPetChar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
