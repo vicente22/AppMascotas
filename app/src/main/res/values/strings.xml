@@ -31,9 +31,6 @@
         conejos y otras piezas de caza. Su gran capacidad olfativa e instinto de
         rastreo hace que se utilicen como perros de detección de importaciones agrícolas
         prohibidas y productos alimenticios en cuarentena a lo largo de todo el mundo.
-        Son animales inteligentes, y populares como animales domésticos debido a su talla,
-        carácter tranquilo y carencia de problemas de salud congénitos.
-        Estas características también hacen de ellos una opción como sujeto de experimentación in vivo.
     </string>
     <string name="infoBoxer">
         El perro bóxer alemán es una raza canina de trabajo y compañía de tipo moloso.
@@ -50,8 +47,7 @@
         El caballo (Equus ferus caballus)1​2​ es un mamífero perisodáctilo domesticado de la familia de los équidos.
         Es un herbívoro perisodáctilo de gran porte, cuello largo y arqueado, poblado por largas crines.
         A la hembra del caballo se le llama yegua y a las crías si son machos potros o potrillos, y
-        si son hembras potras o potrancas. La cría y utilización del caballo por parte del hombre se conoce como ganadería equina o caballar,
-        y su domesticación se remonta a 3600 a. C., en la región de Kazajistán.3​
+        si son hembras potras o potrancas.
     </string>
     <string name="infoCocker">
         El Cocker spaniel inglés es una raza de perro originaria de Gales.
@@ -124,10 +120,6 @@
         Durante el siglo XIX la raza empezó a adquirir popularidad por sus habilidades para cazar
         y en 1882 se fundó el Club del Setter Irlandés Rojo en Dublín. A partir de entonces,
         el número de este tipo de perros aumentó mientras que el de la variedad roja y blanca fue disminuyendo.
-        El Setter Rojo se comenzó a exportar a EE.UU. en gran número hacia finales del siglo XIX,
-        por lo que la raza se extendió por los diversos continentes, de manera que en la actualidad es común tanto en Europa como en América.
-        Hoy día esta raza es más utilizada como animal de compañía que como perro de caza,
-        aunque expertos en el tema afirman que el Setter irlandés conserva una gran capacidad para esta actividad.
     </string>
     <string name="infoTerrier">
         Terrier es como se denomina a un extenso grupo de razas de perros relacionados entre sí, en su mayor parte originarios de las Islas Británicas.
@@ -151,12 +143,12 @@
         Hay quien dice que los antiguos egipcios tenían hurones,
         pero es más creíble que los europeos que visitaban Egipto viesen gatos,
         y pensaran que usar un pequeño carnívoro para proteger las reservas de grano era una gran idea.
-        Al no haberse encontrado hurones momificados ni jeroglíficos que los representen, esta teoría tiene poco fundamento.2​
+        Al no haberse encontrado hurones momificados ni jeroglíficos que los representen, esta teoría tiene poco fundamento.
         Hacia el año 6 a. C., el emperador César Augusto envió hurones o mangostas
-        (denominadas viverrae por Plinio el Viejo) a las islas Baleares para controlar las plagas de conejos.3​
+        (denominadas viverrae por Plinio el Viejo) a las islas Baleares para controlar las plagas de conejos.
         El hurón desciende probablemente del turón (Mustela putorius),
         por lo que el nombre científico más utilizado para este animal es Mustela putorius furo.
-        También es posible que los hurones tengan como antepasados al turón de la estepa (Mustela eversmannii).4​
+        También es posible que los hurones tengan como antepasados al turón de la estepa (Mustela eversmannii).
     </string>
     <string name="infoBullTerrier">
         El Bull terrier o bull terrier inglés es una raza canina de la familia de los terrier.
@@ -166,10 +158,6 @@
         Aunque el nombre pueda llevar a confusión, el bull terrier no está directamente relacionado con el pit bull terrier americano.
         Sin embargo, ambas razas tienen la misma ascendencia. El estándar de Bull terrier miniatura es
         muy parecido al del Bull terrier, salvo en lo relativo a la alzada a la cruz, que no debe superar los 35,5 cm.
-        Debe dar la impresión de buena sustancia para el tamaño del perro. No hay límite en el peso.
-        El ejemplar debe ser armónico en todo momento.
-        Según la Federación Cinológica Internacional (FCI),
-        las dos variedades de bull terrier conforman una sola raza, pero son juzgadas por separado y no deben cruzarse.
     </string>
     <string name="infoZebra">
         Se conocen como cebra (o zebra, grafía en desuso1​) a tres especies del género Equus propias de

@@ -7,4 +7,5 @@
     <color name="buttonPrimary">#212121</color>
     <color name="textColor">#212121</color>
     <color name="backgroundColor">#FFFFFF</color>
+    <color name="colorTabs">#FFF</color>
 </resources>

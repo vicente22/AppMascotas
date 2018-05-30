@@ -41,6 +41,7 @@
                 android:layout_height="wrap_content" />
 
             <Spinner
+                android:padding="5dp"
                 android:layout_marginBottom="10dp"
                 android:entries="@array/personality"
                 android:id="@+id/spinnerPersonality"
@@ -62,6 +63,7 @@
                 android:layout_height="wrap_content" />
 
             <Spinner
+                android:padding="5dp"
                 android:layout_marginBottom="10dp"
                 android:id="@+id/spinnerCasa"
                 android:entries="@array/typeHome"
@@ -83,6 +85,7 @@
                 android:layout_height="wrap_content" />
 
             <Spinner
+                android:padding="5dp"
                 android:layout_marginBottom="10dp"
                 android:id="@+id/spinnerZodiac"
                 android:entries="@array/zodiac"
@@ -175,11 +178,11 @@
                 android:gravity="bottom|center">
 
                 <Button
+                    android:background="@drawable/rounded_textview"
                     android:drawableRight="@mipmap/baseline_arrow_forward_black_36dp"
                     android:id="@+id/btnSendData"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:background="@color/colorPrimary"
                     android:paddingLeft="50dp"
                     android:paddingRight="50dp"
                     android:text="@string/textSendData" />
