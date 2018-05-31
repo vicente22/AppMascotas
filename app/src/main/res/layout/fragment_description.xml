@@ -18,14 +18,16 @@
         android:layout_height="wrap_content" />
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1">
+        android:layout_height="match_parent">
         <LinearLayout
-            android:layout_marginRight="10sp"
-            android:layout_marginLeft="10sp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
             android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="400dp">
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp">
             <ImageView
                 android:id="@+id/imageViewInfoPet"
                 android:layout_gravity="center"
@@ -47,10 +49,10 @@
                 android:background="@color/backgroundColor"
                 android:textColor="@color/buttonPrimary"
                 android:textAlignment="inherit"
-                android:textSize="17sp"
+                android:textSize="15sp"
                 android:id="@+id/textViewResultInfoPet"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:layout_marginBottom="10dp"/>
         </LinearLayout>
     </ScrollView>

@@ -27,12 +27,11 @@
     <string name="infoBeagle">
         Los beagle son una raza de perros de tamaño pequeño a mediano.
         Tienen un aspecto similar al foxhound, pero de menor tamaño,
-        con patas más cortas y orejas más largas y suaves. Este perro, clasificado en el grupo 6,
-        sección 1.3 por la Federación Cinológica Internacional,
-        es un sabueso utilizado principalmente para rastrear liebres,
+        con patas más cortas y orejas más largas y suaves.
+        Es un sabueso utilizado principalmente para rastrear liebres,
         conejos y otras piezas de caza. Su gran capacidad olfativa e instinto de
         rastreo hace que se utilicen como perros de detección de importaciones agrícolas
-        prohibidas y productos alimenticios en cuarentena a lo largo de todo el mundo.
+        prohibidas.
     </string>
     <string name="infoBoxer">
         El perro bóxer alemán es una raza canina de trabajo y compañía de tipo moloso.
@@ -75,7 +74,8 @@
         Otro rasgo de origen genético propio de la raza es su alta predisposición a la sordera.
     </string>
     <string name="infoDoberman">
-        El dobermann8​ es una raza relativamente reciente, debe su nombre al alemán Karl Friedrich Louis Dobermann, quien a finales del siglo XIX,
+        El dobermann8​ es una raza relativamente reciente, debe su nombre al alemán Karl
+        Friedrich Louis Dobermann, quien a finales del siglo XIX,
         emprende la tarea de crear una nueva raza de perro que sirviera eficazmente a su difícil trabajo como recaudador de impuestos.
         Para conseguir el nacimiento de esta nueva raza, se emplearon cruces de otras razas caninas como el Rottweiler,
         el Beauceron, el Braco de Weimar, el Manchester terrier,
@@ -94,7 +94,6 @@
         El Persa es una raza de gato caracterizada por tener una cara ancha y plana y un gran abundante pelaje de variados colores.
         Son considerados comúnmente como gatos aristocráticos (el 75% de los gatos de pedigree registrados son persas).
         Los primeros gatos persas fueron introducidos en Italia desde Persia (actual Irán) en la década de 1620 y a sus descendientes se les llamó de muchas maneras.
-        La rama persa actual se desarrolló a finales de 1800 en Inglaterra y proviene del gato de Angora turco.
     </string>
     <string name="infoGreatDanish">
         El gran danés, dogo alemán o alano alemán es una raza canina conocida por su gran tamaño y personalidad delicada,
@@ -109,7 +108,6 @@
         ​los pastores alemanes de todo el mundo son a menudo la raza preferida para muchos otros tipos de trabajo,
         como son: perro guardián, guía de ciegos, animal de salvamento,
         perro policía y otros, según el uso que le den las fuerzas de seguridad y el ejército.
-        En muchos países incluso cuentan con unidades específicas denominadas K-9.
     </string>
     <string name="infoSaintBernard">
         El san bernardo es una raza de perro originaria de los Alpes suizos y del norte de Italia.
@@ -132,7 +130,7 @@
         En líneas generales se trata de perros de tamaño pequeño, pelo áspero o duro y poseedores de un carácter decidido,
         enérgico e inquieto, muy apropiado para la caza de ratas y alimañas, que fue el principal uso para el que fueron seleccionados.
         Como los terrier varían en medida, desde ejemplares de un par de kilos (como el Norwich),
-        hasta ejemplares de más de 30 kilos (como el Airedale), generalmente se clasifican con base en el tamaño o la función.
+        hasta ejemplares de más de 30 kilos.
     </string>
     <string name="infoWeimaraner">
         El braco de Weimar (en alemán, Weimaraner) es un perro de caza especialmente dotado como perro cobrador.
@@ -148,12 +146,6 @@
         Hay quien dice que los antiguos egipcios tenían hurones,
         pero es más creíble que los europeos que visitaban Egipto viesen gatos,
         y pensaran que usar un pequeño carnívoro para proteger las reservas de grano era una gran idea.
-        Al no haberse encontrado hurones momificados ni jeroglíficos que los representen, esta teoría tiene poco fundamento.
-        Hacia el año 6 a. C., el emperador César Augusto envió hurones o mangostas
-        (denominadas viverrae por Plinio el Viejo) a las islas Baleares para controlar las plagas de conejos.
-        El hurón desciende probablemente del turón (Mustela putorius),
-        por lo que el nombre científico más utilizado para este animal es Mustela putorius furo.
-        También es posible que los hurones tengan como antepasados al turón de la estepa (Mustela eversmannii).
     </string>
     <string name="infoBullTerrier">
         El Bull terrier o bull terrier inglés es una raza canina de la familia de los terrier.
@@ -161,8 +153,6 @@
         Su temperamento ha sido descrito como amante de la diversión, así como activos y graciosos.
         Han aparecido como personajes en tiras cómicas, libros, películas y publicidad. También son muy cariñosos.
         Aunque el nombre pueda llevar a confusión, el bull terrier no está directamente relacionado con el pit bull terrier americano.
-        Sin embargo, ambas razas tienen la misma ascendencia. El estándar de Bull terrier miniatura es
-        muy parecido al del Bull terrier, salvo en lo relativo a la alzada a la cruz, que no debe superar los 35,5 cm.
     </string>
     <string name="infoZebra">
         Se conocen como cebra (o zebra, grafía en desuso1​) a tres especies del género Equus propias de
@@ -184,9 +174,6 @@
         Relación con otros perros: buena
         Aptitudes: perro de compañía y guardián
         Necesidades del espacio: se adapta bien al interior de la vivienda
-        Alimentación del Bulldog Inglés: de 400 a 450 g. diarios de comida completa seca
-        Arreglo: no necesita
-        Coste mantenimiento: moderado
     </string>
     <string name="boxerCharac">
         Capa: leonada o atigrada, con o sin manchas blancas
@@ -196,8 +183,6 @@
         Aptitudes: perro de defensa y de compañía
         Necesidades del espacio: necesita como mínimo un jardín
         Alimentación del Boxer: de 450 a 550 g. de alimento completo seco
-        Arreglo: sólo algún cepillado
-        Coste mantenimiento: medio
     </string>
     <string name="bulldogCharac">
         Capa: blanca con manchas leonadas o atigradas o unicolor leonada o atigrada
@@ -207,8 +192,6 @@
         Aptitudes: perro de compañía y guardián
         Necesidades del espacio: se adapta bien al interior de la vivienda
         Alimentación del Bulldog Inglés: de 400 a 450 g. diarios de comida completa seca
-        Arreglo: no necesita
-        Coste mantenimiento: moderado
     </string>
     <string name="bullterrierCharac">
         Altura a la cruz: sin límite de tamaño, unos 56 cm.
@@ -231,8 +214,6 @@
         Altura del cocker spaniel macho 39-41 cm y hembras 38-39 cm.
         Su cuerpo es fuerte, el pecho es bien profundo y desarrollado,
         sin ser muy estrecho ni ancho.Su cabeza es muy modelada, ni tan fina ni muy grande.
-        La nariz es ancha y su hocico cuadrado. Los ojos son marrones en su mayoría,
-        pero también pueden ser más claros, según sea el manto del perro. Las orejas muy peludas, largas y cuelgan hacia abajo.
     </string>
     <string name="collieCharac">
         Capa: cibelina y blanca, tricolor o azul mirlo
@@ -242,8 +223,6 @@
         Aptitudes: perro de compañía y guarda
         Necesidades del espacio: necesita espacio para quemar energías
         Alimentación del Collie de Pelo Largo: de 380 a 500 g. diarios de alimento completo seco
-        Arreglo: cepillado semanal
-        Coste mantenimiento: moderado
     </string>
     <string name="dalmataCharac">
         Capa: blanca moteada de negro
@@ -252,8 +231,6 @@
         Relación con otros perros: buena
         Aptitudes: perro de compañía
         Necesidades del espacio: puede vivir en el interior de la vivienda pero necesita correr
-        Alimentación del Dálmata: unos 400 g. de alimento completo seco
-        Coste mantenimiento: medio
     </string>
     <string name="dobermanCharac">
         Cuando es adiestrado y puesto en forma adecuadamente, el Dobermann es un perro equilibrado,
@@ -267,9 +244,6 @@
         Por esto mantelo siempre activo así evitarás que se aburra y tome algunas cosas que no le pertenecen.
         Tu gato es muy sociable porque disfruta mucho de la compañía de otros, eso sí,
         ten en cuenta que siempre va a decidir con quién quiere estar.
-        Le encanta trepar, escalar incluso a lugares que no son de fácil acceso,
-        así que debes ser muy creativo a la hora de enriquecer el espacio donde se mueve tu gato Angora.
-        Improvisa, construye y viste el hogar para tu gato, esto lo va a ser sentir muy especial.
     </string>
     <string name="gatoPersaCharac">
         Tipo: elegante
@@ -277,34 +251,24 @@
         hocico fino, nariz larga y recta sin depresión nasofrontal; orejas grandes, puntiagudas y separadas
         Ojos: medianos, almendrados, ligeramente oblicuos; de un color azul luminoso y profundo
         Cuerpo: mediano, alargado, esbelto, elegante, osamente fina y musculatura firme
-        Cola: larga, estrecha en la base, se afina hacia la punta
-        Pelaje: corto, fino, sedoso, liso, apretado, pelusa prácticamente inexistente
-        Colores: capa pigmentada en las partes distales del cuerpo (points): cara, orejas, patas y cola,
-        el resto del cuerpo es más claro. Variantes: blanco; solid points o tabby points en colores seal, azul,
-        chocolate, lila, rojo, crema, canela, fawn y variantes tortuga
     </string>
     <string name="gatoSiamesCharac">
         Los ojos de un gato siamés no tienen imitación posible. Su forma y color hacen que su mirada sea penetrante y misteriosa.
         Son almendrados y se inclinan suavemente de la nariz hacia las orejas.
         El gen que causa el patrón de forma también es responsable del color y la sombra.
         Cualquier gato con ojos azules es probable que tenga alguna ascendencia siamesa.
-        Aunque muchas leyendas asocian la casta con los ojos cruzados,
-        el estrabismo es ahora considerado como un fallo en la cría.
     </string>
     <string name="granDanesCharac">
         El gran danés es uno de los perros más grandes, elegantes y carismáticos.
         El estándar de la raza aceptado por la Federación Cinológica Internacional (FCI)
         lo describe como "el Apolo de las razas caninas", y es que su cuerpo bien proporcionado y
         porte se encuentran en perfecta armonía.
-        Tanto si estás pensando en adoptar un gran danés como si acabas de hacerlo y precisas de
-        información sobre la raza con la finalidad de ofrecer a tu peludo compañero la mejor calidad de vida,
-        en ExpertoAnimal te contamos todo sobre este perro de gran tamaño, su origen, características físicas,
-        cuidados y posibles problemas de salud.
     </string>
     <string name="huronCharac">
         Es un animal pequeño, de cuerpo alargado y patas cortas.
         Tienen un cuello largo y cabeza triangular que les hace perfectos para la caza en madrigueras, para lo que fueron domesticados.
-        Suelen pesar de 1 a 2 kilos, pero pueden llegar a los 7, siendo los machos más pequeños que las hembras. Cambian la dentición a los 50 días y les sale su primera a los 17 días. Se hacen adultos a partir del año de edad como máximo y la época de cría abarca de diciembre a junio. Son animales poliéstricos y con ovulación inducida. La gestación dura de 40 a 46 días, paren de 2 a 16 crías sin pelo y ciegas. Suelen vivir aproximadamente 8 años.
+        Son animales poliéstricos y con ovulación inducida. La gestación dura de 40 a 46 días, paren de 2 a 16 crías sin pelo y ciegas.
+        Suelen vivir aproximadamente 8 años.
     </string>
     <string name="pastorAlemanCharac">
         Capa: todos los colores, desde el marrón claro al negro. No está admitido el blanco, ni manchas blancas, que no son deseadas y se penalizarán
@@ -312,10 +276,6 @@
         Relación con los niños: buena
         Relación con otros perros: regular
         Aptitudes: guarda y defensa, vigilancia, perro lazarillo, perro de avalancha, perro militar, perro de rebaño, etc.
-        Necesidades del espacio: muy aconsejable un jardín
-        Alimentación del Pastor Alemán: de 500 a 650 g. diarios de alimento completo seco
-        Arreglo: cepillados frecuentes únicamente en el período de muda
-        Coste mantenimiento: elevado
     </string>
     <string name="sanBernardoCharac">
         Capa: todos los colores, desde el marrón claro al negro.
@@ -324,10 +284,6 @@
         Relación con los niños: buena
         Relación con otros perros: regular
         Aptitudes: guarda y defensa, vigilancia, perro lazarillo, perro de avalancha, perro militar, perro de rebaño, etc.
-        Necesidades del espacio: muy aconsejable un jardín
-        Alimentación del Pastor Alemán: de 500 a 650 g. diarios de alimento completo seco
-        Arreglo: cepillados frecuentes únicamente en el período de muda
-        Coste mantenimiento: elevado
     </string>
     <string name="setterIrlandesCharac">
         Capa: rojo intenso sin ninguna traza de negro, pequeña mancha blanca aceptada
@@ -335,10 +291,6 @@
         Relación con los niños: muy buena
         Relación con otros perros: satisfactoria
         Aptitudes: excelente perro de caza, eventualmente de compañía
-        Necesidades del espacio: conveniente jardín o perrera amplia
-        Alimentación del Setter Irlandés Rojo: de 350 a 520 g. de alimento completo seco, fuera de los períodos de caza
-        Arreglo: cepillado semanal necesario para el mantenimiento de los flecos y el resto de la capa
-        Coste mantenimiento: mediano
     </string>
     <string name="terrierCharac">
         Capa: gris acero y leonada, pelo largo, brillante y abundante
@@ -348,8 +300,6 @@
         Aptitudes: perro de compañía
         Necesidades del espacio: restringidas, pero debe hacer ejercicio
         Alimentación del Yorkshire Terrier: de 70 a 90 g. diarios de alimento completo seco
-        Arreglo: sesión semanal, cepillado y peinados diarios, un baño mensual como mínimo
-        Coste mantenimiento: medio
     </string>
     <string name="weimaranerCharac">
         Capa: Gris plateado, gris ciervo o gris ratón así como transiciones entre estas tonalidades
@@ -358,9 +308,6 @@
         Relación con otros perros: buena
         Aptitudes: perro de muestra, retriever, perro de búsqueda, eventualmente perro de sangre
         Necesidades del espacio: necesita largas salidas regulares para adaptarse a la vida de interior
-        Alimentación del Weimaraner: de 500 a 550 g. diarios de alimento completo seco
-        Arreglo: ninguno
-        Coste mantenimiento: elevado
     </string>
     <string name="zebraCharac">
         Es uno de los animales más distintivos del continente africano y representado cientos de veces
@@ -368,9 +315,6 @@
         Específicamente, se llama cebra a cualquiera de las 3 especies del género Equus y de los
         subgéneros Hippotigris y Dolichohippus: cebra de planicie (Equus quagga),
         cebra de montaña (Equus zebra) y cebra de Grevy (Equus greyvi).
-        La cebra de planicie es la más común y tiene 6 subespecies de las cuales
-        1 ya se encuentra extinta (Equus quagga quaga). La cebra de montaña, por su parte,
-        tiene 2 subespecies, mientras que la cebra de Grevy es única.
     </string>
     <string name="title_activity_info_tabbed_result">InfoTabbedResult</string>
     <string name="action_settings">Settings</string>

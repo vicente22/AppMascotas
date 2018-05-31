@@ -18,14 +18,13 @@
         android:layout_height="wrap_content" />
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1">
+        android:layout_height="match_parent">
         <LinearLayout
             android:layout_marginRight="10sp"
             android:layout_marginLeft="10sp"
             android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="wrap_content">
             <ImageView
                 android:id="@+id/imageViewInfoPet"
                 android:layout_gravity="center"

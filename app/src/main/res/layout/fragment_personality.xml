@@ -18,8 +18,7 @@
         android:layout_height="wrap_content" />
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1">
+        android:layout_height="match_parent">
         <LinearLayout
             android:layout_marginRight="10sp"
             android:layout_marginLeft="10sp"
@@ -53,10 +52,10 @@
             <TextView
                 android:background="@color/backgroundColor"
                 android:id="@+id/textViewInfoPetPerso"
-                android:textSize="17dp"
+                android:textSize="15dp"
                 android:text=""
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="match_parent" />
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
