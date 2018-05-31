@@ -717,7 +717,7 @@ public class Pets {
                     if (radioGroupGender.equals("M")) {
                         pet1 = R.mipmap.weimaraner;
                         pet2 = R.mipmap.boxer;
-                        pet3 = R.mipmap.boxer;
+                        pet3 = R.mipmap.huron;
                     } else {
                         pet1 = R.mipmap.gatoangora;
                         pet2 = R.mipmap.doberman;

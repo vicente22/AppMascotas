@@ -1,6 +1,7 @@
 package cl.vicentepc.miappprueba1;
 
 
+import android.app.AlertDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -14,7 +15,6 @@ import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.SeekBar;
 import android.widget.Spinner;
-import android.widget.TextView;
 import android.widget.Toast;
 
 
@@ -106,34 +106,55 @@ public class FormFragment extends Fragment {
                 //Validaciones con IF
                 if(editTextCompleteName.getText().toString().trim().length() <= 0) {
 
-                    Toast.makeText(getActivity(), "No agregaste tu NOMBRE, favor agregar.", Toast.LENGTH_LONG).show();
+                    AlertDialog.Builder alertDialog = new AlertDialog.Builder(getActivity());
+                    alertDialog.setTitle("Dato no agregado");
+                    alertDialog.setMessage("No agregaste tu NOMBRE, favor agregar.");
+                    alertDialog.show();
+                    //Toast.makeText(getActivity(), "No agregaste tu NOMBRE, favor agregar.", Toast.LENGTH_LONG).show();
 
                 }else if(spinnerPersonality.getSelectedItem().toString().trim().equals("Sin seleccionar...")) {
-
-                    Toast.makeText(getActivity(), "No seleccionaste tu PERSONALIDAD", Toast.LENGTH_LONG).show();
+                    AlertDialog.Builder alertDialog = new AlertDialog.Builder(getActivity());
+                    alertDialog.setTitle("Dato no agregado");
+                    alertDialog.setMessage("No seleccionaste tu PERSONALIDAD, favor agregar.");
+                    alertDialog.show();
+                    //Toast.makeText(getActivity(), "No seleccionaste tu PERSONALIDAD", Toast.LENGTH_LONG).show();
 
                 }else if(spinnerHome.getSelectedItem().toString().trim().equals("Sin seleccionar...")) {
-
-                    Toast.makeText(getActivity(), "No seleccionaste tu tipo de CASA", Toast.LENGTH_LONG).show();
+                    AlertDialog.Builder alertDialog = new AlertDialog.Builder(getActivity());
+                    alertDialog.setTitle("Dato no agregado");
+                    alertDialog.setMessage("No seleccionaste tu tipo VIVIENDA, favor agregar.");
+                    alertDialog.show();
+                    //Toast.makeText(getActivity(), "No seleccionaste tu tipo de CASA", Toast.LENGTH_LONG).show();
 
                 }else if(spinnerZodiac.getSelectedItem().toString().trim().equals("Sin seleccionar...")) {
-
-                        Toast.makeText(getActivity(), "No seleccionaste tu SIGNO ZODIACAL", Toast.LENGTH_LONG).show();
+                    AlertDialog.Builder alertDialog = new AlertDialog.Builder(getActivity());
+                    alertDialog.setTitle("Dato no agregado");
+                    alertDialog.setMessage("No seleccionaste tu SIGNO ZODIACAL, favor agregar.");
+                    alertDialog.show();
+                    //Toast.makeText(getActivity(), "No seleccionaste tu SIGNO ZODIACAL", Toast.LENGTH_LONG).show();
 
                 }else if(editTextYears.getText().toString().trim().length() <= 0) {
-
-                    Toast.makeText(getActivity(), "No seleccionaste tu EDAD", Toast.LENGTH_LONG).show();
+                    AlertDialog.Builder alertDialog = new AlertDialog.Builder(getActivity());
+                    alertDialog.setTitle("Dato no agregado");
+                    alertDialog.setMessage("No seleccionaste tu EDAD, favor agregar.");
+                    alertDialog.show();
+                    //Toast.makeText(getActivity(), "No seleccionaste tu EDAD", Toast.LENGTH_LONG).show();
 
                 }else if(editTextYears.getText().toString().trim().equals("0 años")){
-
-                    Toast.makeText(getActivity(), "No seleccionaste un AÑO", Toast.LENGTH_LONG).show();
+                    AlertDialog.Builder alertDialog = new AlertDialog.Builder(getActivity());
+                    alertDialog.setTitle("Dato no agregado");
+                    alertDialog.setMessage("No seleccionaste un AÑO, favor agregar.");
+                    alertDialog.show();
+                    //Toast.makeText(getActivity(), "No seleccionaste un AÑO", Toast.LENGTH_LONG).show();
 
                 }else if(radioGroupGender.getCheckedRadioButtonId() == -1){
-
-                    Toast.makeText(getActivity(), "No seleccionaste tu SEXO", Toast.LENGTH_LONG).show();
+                    AlertDialog.Builder alertDialog = new AlertDialog.Builder(getActivity());
+                    alertDialog.setTitle("Dato no agregado");
+                    alertDialog.setMessage("No seleccionaste un AÑO, favor agregar.");
+                    alertDialog.show();
+                    //Toast.makeText(getActivity(), "No seleccionaste tu SEXO", Toast.LENGTH_LONG).show();
 
                 }else{
-
                     Toast.makeText(getActivity(), "Formulario completado", Toast.LENGTH_LONG).show();
                     Intent intent = new Intent(getActivity(), ResultActivity.class);
                     intent.putExtra("editTextCompleteName", editTextCompleteName.getText().toString());
@@ -147,7 +168,6 @@ public class FormFragment extends Fragment {
                         intent.putExtra("radioGroupGender", "F");
                     }
                     startActivity(intent);
-
                 }
 
             }
