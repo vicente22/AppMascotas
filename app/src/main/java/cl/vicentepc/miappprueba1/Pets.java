@@ -159,7 +159,7 @@ public class Pets {
                         pet2 = R.mipmap.setterirlandes;
                         pet3 = R.mipmap.caballo;
                     }
-                } else if (spinnerZodiac.equals("Actuario")) {
+                } else if (spinnerZodiac.equals("Acuario")) {
                     if (radioGroupGender.equals("M")) {
                         pet1 = R.mipmap.setterirlandes;
                         pet2 = R.mipmap.cocker;
@@ -281,7 +281,7 @@ public class Pets {
                         pet2 = R.mipmap.cocker;
                         pet3 = R.mipmap.sanbernardo;
                     }
-                } else if (spinnerZodiac.equals("Actuario")) {
+                } else if (spinnerZodiac.equals("Acuario")) {
                     if (radioGroupGender.equals("M")) {
                         pet1 = R.mipmap.huron;
                         pet2 = R.mipmap.bulldog;
@@ -415,7 +415,7 @@ public class Pets {
                         pet2 = R.mipmap.gatoangora;
                         pet3 = R.mipmap.gatopersa;
                     }
-                } else if (spinnerZodiac.equals("Actuario")) {
+                } else if (spinnerZodiac.equals("Acuario")) {
                     if (radioGroupGender.equals("M")) {
                         pet1 = R.mipmap.boxer;
                         pet2 = R.mipmap.collie;
@@ -537,7 +537,7 @@ public class Pets {
                         pet2 = R.mipmap.gatopersa;
                         pet3 = R.mipmap.huron;
                     }
-                } else if (spinnerZodiac.equals("Actuario")) {
+                } else if (spinnerZodiac.equals("Acuario")) {
                     if (radioGroupGender.equals("M")) {
                         pet1 = R.mipmap.gatosiames;
                         pet2 = R.mipmap.huron;
@@ -671,7 +671,7 @@ public class Pets {
                         pet2 = R.mipmap.setterirlandes;
                         pet3 = R.mipmap.terrier;
                     }
-                } else if (spinnerZodiac.equals("Actuario")) {
+                } else if (spinnerZodiac.equals("Acuario")) {
                     if (radioGroupGender.equals("M")) {
                         pet1 = R.mipmap.doberman;
                         pet2 = R.mipmap.dalmata;
@@ -793,7 +793,7 @@ public class Pets {
                         pet2 = R.mipmap.zebra;
                         pet3 = R.mipmap.huron;
                     }
-                } else if (spinnerZodiac.equals("Actuario")) {
+                } else if (spinnerZodiac.equals("Acuario")) {
                     if (radioGroupGender.equals("M")) {
                         pet1 = R.mipmap.huron;
                         pet2 = R.mipmap.dalmata;
@@ -928,7 +928,7 @@ public class Pets {
                         pet2 = R.mipmap.bulldog;
                         pet3 = R.mipmap.huron;
                     }
-                } else if (spinnerZodiac.equals("Actuario")) {
+                } else if (spinnerZodiac.equals("Acuario")) {
                     if (radioGroupGender.equals("M")) {
                         pet1 = R.mipmap.sanbernardo;
                         pet2 = R.mipmap.zebra;
@@ -1050,7 +1050,7 @@ public class Pets {
                         pet2 = R.mipmap.cocker;
                         pet3 = R.mipmap.weimaraner;
                     }
-                } else if (spinnerZodiac.equals("Actuario")) {
+                } else if (spinnerZodiac.equals("Acuario")) {
                     if (radioGroupGender.equals("M")) {
                         pet1 = R.mipmap.terrier;
                         pet2 = R.mipmap.bullterrier;
@@ -1184,7 +1184,7 @@ public class Pets {
                         pet2 = R.mipmap.pastoraleman;
                         pet3 = R.mipmap.cocker;
                     }
-                } else if (spinnerZodiac.equals("Actuario")) {
+                } else if (spinnerZodiac.equals("Acuario")) {
                     if (radioGroupGender.equals("M")) {
                         pet1 = R.mipmap.bullterrier;
                         pet2 = R.mipmap.doberman;
@@ -1306,7 +1306,7 @@ public class Pets {
                         pet2 = R.mipmap.cocker;
                         pet3 = R.mipmap.doberman;
                     }
-                } else if (spinnerZodiac.equals("Actuario")) {
+                } else if (spinnerZodiac.equals("Acuario")) {
                     if (radioGroupGender.equals("M")) {
                         pet1 = R.mipmap.dalmata;
                         pet2 = R.mipmap.setterirlandes;
